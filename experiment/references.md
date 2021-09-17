@@ -1,4 +1,4 @@
-##Journal articles
+## Journal articles
  
 
 1. Cole, K.S. (1949) Dynamic electrical characteristics of the squid axon membrane. Arch. Sci. Phtsiol.3:253-25.
@@ -22,7 +22,7 @@
  &nbsp;
  
  
-##Books
+## Books
  
 
 1. Bertil Hille .Ionic channels of excitable membrane,2nd Ed. Sinauer Associates Inc, Sunderland, Massachusetts,1992.
@@ -37,7 +37,7 @@
 &nbsp;
 
 
-##Webilography
+## Webilography
  
 
 1. Current-Voltage (V-I) Curveson line calculator  http://anes.anesthes.sunysb.edu/faculty/Dilger/IV_curves/IV_Curves.html
