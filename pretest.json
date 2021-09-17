@@ -1,0 +1,85 @@
+{
+  "version": 2.0,
+  "questions": [
+    
+    {
+      "question": "1. ____________technique is using to record the current by stepping the voltage to find currents for plotting V-I curve.",
+      "answers": {
+        "a": "Current clamp",
+        "b": "Voltage clamp",
+        "c": "Both Voltage clamp and Current clamp",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  
+
+
+    {
+      "question": "2. __ drug is used as sodium ion channel blocker for calculating reverse potential which is created because of the flow of Na+ ions. ",
+      "answers": {
+        "a": "TEA",
+        "b": "TTX",
+        "c": "CCB",
+        "d": "All the above"
+       
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "3. In electrophysiology V-I curves are mainly used to estimate _____",
+
+      "answers": {
+        "a": "Reversal potential and conductance of ion channels",
+        "b": "Action potential",
+        "c": "Extracellular potential",
+        "d": "None of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "4. Na+ current is characterized by ________ peak and potassium current is characterized by __________ peak.",
+
+      "answers": {
+        "a": "negative , positive",
+        "b": "positive , negative",
+        "c": "both are negative",
+        "d": "both are positive"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. V-I curve plots ______ on x-axis and _______ on y-axis.",
+
+      "answers": {
+        "a": "current and voltage",
+        "b": "voltage and conductance",
+        "c": "voltage and current",
+        "d": "current and conductance"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+
+
+
+  ]
+}
